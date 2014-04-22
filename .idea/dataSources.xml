@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2459294754">
+    <data-source source="LOCAL" name="PruebaEnvers dev" uuid="7b7d7d07-6e6a-4b7c-ad51-d1f02ea59f5d">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/scm?autoReconnect=true</jdbc-url>
+      <user-name>scm</user-name>
+      <user-password>df9bdf98df99df9edf9fdf9cdf9ddf92</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
